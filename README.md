@@ -17,4 +17,4 @@
 <br>
 <h4> Imagem do projeto </h4>
 <br>
-<img src="
+<img src="https://github.com/JhonatanSamuel/Previsao-do-tempo/blob/master/previsao-tempo-front-end-javascript.jpg?raw=true"/>
